@@ -1,2 +1,2 @@
 # abcdefghijklmnopqrstuvwxyz
-lots of cool things are in this repo
+various game datas
